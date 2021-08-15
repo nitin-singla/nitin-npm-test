@@ -1,5 +1,5 @@
 # nitin-npm-test
-<Description of what the package does> = Test package
+<Description of what the package does> Test package
 ## Usage
 Install the package using npm :
  npm install nitin-npm-test --save
